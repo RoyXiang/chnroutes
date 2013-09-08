@@ -88,7 +88,7 @@ def generate_mac(metric):
             exit 0
     fi
     
-    ODLGW=`cat /tmp/pptp_oldgw`
+    OLDGW=`cat /tmp/pptp_oldgw`
     
     """)
     
